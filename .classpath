@@ -16,6 +16,8 @@
 	<classpathentry kind="src" path="src/main/security"/>
 	<classpathentry kind="src" path="src/main/netty"/>
 	<classpathentry kind="src" path="src/main/schedule"/>
+	<classpathentry kind="src" path="src/main/io"/>
+	<classpathentry kind="src" path="src/main/collections"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
